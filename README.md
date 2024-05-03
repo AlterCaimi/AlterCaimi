@@ -5,7 +5,7 @@ Siento una gran atracción por las matemáticas y la resolución creativa de pro
 Mi objetivo principal es aplicar mis conocimientos de Machine Learning en entornos que fomenten la innovación y los desafíos analíticos.<br>
 
 Mi experiencia en el sector farmacéutico me ha proporcionado una comprensión profunda de los desafíos y las oportunidades dentro del sector. 
-Estoy particularmente interesado en el uso de la inteligencia artificial para mejorar los procesos de investigación y desarrollo, optimizar la cadena de <br>
+Estoy particularmente interesado en el uso de la inteligencia artificial para mejorar los procesos de investigación y desarrollo, optimizar la cadena de 
 suministro y la logística en la industria farmacéutica y mejorar la experiencia de los pacientes.<br>
 
 No dudes en contactarme si quieres discutir cómo puedo aportar valor a tu equipo o proyecto.<br>
